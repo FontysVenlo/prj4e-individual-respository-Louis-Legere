@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "41cb76e7b992c127",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a4c4367f2b8d0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0705c320e472709c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/PersonalDevelopmentPlan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PersonalDevelopmentPlan"
+            }
+          },
+          {
+            "id": "ed8c98376bc5a179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/InitialProjectIdeas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InitialProjectIdeas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0c549dafd4f5e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3b480e0300c36d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b8917c34e094f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c892974b379f04d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da1efb99a87f09bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d07485da77e455f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf08206dd2e8ab2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b78f80b28c29f83d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "doc/Personal Development Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Personal Development Plan"
+            }
+          },
+          {
+            "id": "b7e0a77e0a0a185d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "doc/Personal Development Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal Development Plan"
+            }
+          },
+          {
+            "id": "fbeec31a6cda0010",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8da1980d8befd58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "doc/Personal Development Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal Development Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0705c320e472709c",
+  "lastOpenFiles": [
+    "doc/InitialProjectIdeas.md",
+    "doc/PersonalDevelopmentPlan.md",
+    "doc/Personal.md",
+    "InitialProjectIdeas.jpeg",
+    "doc/InitialProjectIdeas.jpeg",
+    "doc/InitialProjectIdeas.jpeg.md",
+    "InitialProjectIdeas.jpeg 1.md",
+    "InitialProjectIdeas.jpeg.md",
+    "WhatsApp Image 2025-02-21 at 10.05.45.jpeg",
+    "README.md"
+  ]
+}
