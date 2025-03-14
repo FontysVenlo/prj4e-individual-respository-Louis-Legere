@@ -11,9 +11,11 @@ Week1:  Week1 was basically just brainstorming for a project idea.
 Week2: In Week2 we narrowed the ideas down and developed a more precise understanding on what each idea would mean.
 
 Week3: In Week3 we decided on the duck robot as the idea that will be build. 
+	- [Concept art of the duck](/doc/ConceptArtDuck)
+	- [Initial Project Idea](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/main/doc/initial-project-idea.md)
 
-Week4: We made the duck idea more clear and formulated what the duck has to be able to do.
-	- //add link of what the duck has to be able to do
+Week4: We made the duck idea more clear and formulated what the duck has to be able to do. 
+	- put link of project charter
 
 
 **LO2:** Student demonstrates professional skills at level 2 in the focus areas: future-oriented
