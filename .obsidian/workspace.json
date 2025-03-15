@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/ConceptArtDuck.md",
+                "file": "doc/PersonalDevelopmentPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConceptArtDuck"
+              "title": "PersonalDevelopmentPlan"
             }
           }
         ]
@@ -168,13 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7b8917c34e094f0",
+  "active": "b39c2bcce7ebfdee",
   "lastOpenFiles": [
+    "doc/ConceptArtDuck.md",
+    "doc/InitialProjectIdeas.md",
+    "doc/PersonalDevelopmentPlan.md",
+    "doc/images/InitialProjectIdeas.jpeg",
     "doc/images/DuckRobotConceptArt.jpg",
     "doc/images",
-    "doc/PersonalDevelopmentPlan.md",
-    "doc/InitialProjectIdeas.md",
-    "doc/ConceptArtDuck.md",
     "DuckRobotConceptArt.jpg",
     "().md",
     "doc/Personal.md",
