@@ -16,7 +16,7 @@ Week3: In Week3 we decided on the duck robot as the idea that will be build.
 
 Week4: We made the duck idea more clear and started to formulated what the duck has to be able to do. 
 
-Week5: In week 5 I mainly researched into components and chose several. I focused on the Speaker, compass, step down converter and micro controller. Although they had to be changed later. Also I had to find a way to store sound files.
+Week5: In week 5 I mainly researched into components and chose several. I focused on the Speaker, compass, step down converter, distance sensor and micro controller. Although they had to be changed later. Also I had to find a way to store sound files.
 - [ComponentList](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/main/doc/GreatComponentList.md)
 
 Week6: I prepared, worked on and held the pitch 
