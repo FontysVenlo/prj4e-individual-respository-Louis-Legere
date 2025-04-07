@@ -16,6 +16,16 @@ Week3: In Week3 we decided on the duck robot as the idea that will be build.
 
 Week4: We made the duck idea more clear and started to formulated what the duck has to be able to do. 
 
+Week5: In week 5 I mainly researched into components and chose several. I focused on the Speaker, compass, step down converter and micro controller. Although they had to be changed later. Also I had to find a way to store sound files.
+- [ComponentList](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/main/doc/GreatComponentList.md)
+
+Week6: I prepared, worked on and held the pitch 
+ - [Pitch Speech](/doc/PitchSpeech.md)
+
+Week7: In week 7 I have changed quite some components from the component list since they turned out to be suboptimal. Therefore the speaker and SD card reader changed to a sound module that combines both and will be easier to operate. 
+
+prjWeek1:
+
 
 **LO2:** Student demonstrates professional skills at level 2 in the focus areas: future-oriented
 organisation, investigative ability, personal leadership, and targeted
@@ -32,3 +42,11 @@ Week2:
 Week3:
 
 Week4:
+
+Week5:
+
+Week6:
+
+Week7:
+
+prjWeek1:
