@@ -24,7 +24,7 @@ Week6: I prepared, worked on and held the pitch
 
 Week7: In week 7 I have changed quite some components from the component list since they turned out to be suboptimal. Therefore the speaker and SD card reader changed to a sound module that combines both and will be easier to operate. 
 
-prjWeek1:
+prjWeek1: [Initial test of the distance sensor](/doc/InitialDistanceSensor.md)
 
 
 **LO2:** Student demonstrates professional skills at level 2 in the focus areas: future-oriented
