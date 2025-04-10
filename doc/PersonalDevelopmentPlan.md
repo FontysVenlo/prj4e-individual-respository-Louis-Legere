@@ -2,8 +2,19 @@
 **LO1:** Student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way
 
 **In my own words:** I want to build a duck shaped robot while focusing on two main activities: Design in Hardware Interfacing and Realisation in Software. Level 2 of the HBO cube would include integrating a hardware interface and including security and system performance to also ensure real time aspects.
+// learning goal -> ambition -> plan!!
+// miss my abition what I want to learn
+// there is a uml cys ml for embedded systems
+//other development methods
+// maybe I wanna focus on the testing of embedded systems
+// maybe control algortihms
+// maybe ill dive into vision
+//object detection
+// real time distance detection
 
 **Plan:** 
+// I can link youtube videos I used for help for certain prj parts
+// also OSCO and INES
 
 Week1:  Week1 was basically just brainstorming for a project idea.
 - [Image of all initial project ideas](/doc/InitialProjectIdeas.md)
@@ -33,6 +44,17 @@ interaction.
 
 **In my own words:** I want to consider future oriented organisation, develop my investigative ability by analysing important issues, extend my personal leadership with constantly extending my own knowledge independently and apply targeted interaction implementing a proper group communication.
 
+// not precise enough and what exactly I want to improve
+// I want to be more relaibl or on time
+// taking initiative
+// I want to broaden my investigate ability with papers books collegues 
+// personal leadership -> become scrum master or product owner
+// 360 degree feedback
+// did I make a plan and where I able to follow the plan 
+// proof by feedback
+// make graphs of my github assignment handins
+
+// here its more convince than proof
 **Plan:**
 
 Week1:
