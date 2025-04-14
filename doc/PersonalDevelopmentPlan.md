@@ -2,8 +2,13 @@
 **LO1:** Student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way
 
 **In my own words:** I want to build a duck shaped robot while focusing on two main activities: Design in Hardware Interfacing and Realisation in Software. Level 2 of the HBO cube would include integrating a hardware interface and including security and system performance to also ensure real time aspects.
+
+
+### Ambition
+After this project I want to be able to implement object detection into a embedded machine using a distance sensor. I also want to develop a motion algorithm that keeps the robot swim in a straight line and to turn when real time detecting an object ahead. 
+I also want to be able to model and plan embedded systems after this project
 // learning goal -> ambition -> plan!!
-// miss my abition what I want to learn
+// miss my ambition what I want to learn
 // there is a uml cys ml for embedded systems
 //other development methods
 // maybe I wanna focus on the testing of embedded systems
@@ -35,7 +40,12 @@ Week6: I prepared, worked on and held the pitch
 
 Week7: In week 7 I have changed quite some components from the component list since they turned out to be suboptimal. Therefore the speaker and SD card reader changed to a sound module that combines both and will be easier to operate. 
 
-prjWeek1: [Initial test of the distance sensor](/doc/InitialDistanceSensor.md)
+prjWeek1: In the first project week I have set up a basic structure for the application, creating different threads for different components that have to work separately of each other. One of them is the sound Module. It needs to be on its own thread, so it does not stop making sound once some other component is getting operated.
+- [Initial test of the distance sensor](/doc/InitialDistanceSensor.md)
+- [Completion of the sound behaviour](/doc/SoundModule.md)
+
+
+prjWeek2:
 
 
 **LO2:** Student demonstrates professional skills at level 2 in the focus areas: future-oriented
@@ -44,10 +54,14 @@ interaction.
 
 **In my own words:** I want to consider future oriented organisation, develop my investigative ability by analysing important issues, extend my personal leadership with constantly extending my own knowledge independently and apply targeted interaction implementing a proper group communication.
 
+
+### Ambition
+After this project I want to extend my personal leadership in a way where always hand in assignments on time and still try to broaden my knowledge independently from university in a self driven way.
+In terms of group work I want to to take more initiative and have an notable impact on the whole project. Therefore I need to know about all the different aspects of the project improving my investigative ability.
 // not precise enough and what exactly I want to improve
-// I want to be more relaibl or on time
+// I want to be more reliable or on time
 // taking initiative
-// I want to broaden my investigate ability with papers books collegues 
+// I want to broaden my investigate ability with papers books colleagues 
 // personal leadership -> become scrum master or product owner
 // 360 degree feedback
 // did I make a plan and where I able to follow the plan 
