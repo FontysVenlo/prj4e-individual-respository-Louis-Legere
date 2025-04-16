@@ -21,8 +21,9 @@ I also want to be able to model and plan embedded systems after this project
 // I can link youtube videos I used for help for certain prj parts
 // also OSCO and INES
 
-Week1:  Week1 was basically just brainstorming for a project idea.
+Week1: Week1 was basically just brainstorming for a project idea.
 - [Image of all initial project ideas](/doc/InitialProjectIdeas.md)
+I also did the first c exercises.
 
 Week2: In Week2 we narrowed the ideas down and developed a more precise understanding on what each idea would mean.
 
