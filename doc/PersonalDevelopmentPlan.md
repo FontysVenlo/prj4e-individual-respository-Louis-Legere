@@ -72,11 +72,7 @@ In terms of group work I want to to take more initiative and have an notable imp
 // here its more convince than proof
 **Plan:**
 
-Week1:
-
-Week2:
-
-Week3:
+To apply future oriented organisation during our project we held daily stand-up meetings. The role of the chairman switched every day in order to develop the personal leadership of every group member. We also used the Kanban board and moved the tickets that changed status after every stand-up meeting.
 
 Week4:
 
@@ -87,3 +83,7 @@ Week6:
 Week7:
 
 prjWeek1:
+
+prjWeek2:
+
+Week8: To improve the future oriented organisation we held a mid term reflection meeting to reflect on the state of the project and the efficiency of our work.
