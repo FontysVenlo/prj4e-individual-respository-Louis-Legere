@@ -23,7 +23,7 @@ I also want to be able to model and plan embedded systems after this project
 
 Week1: Week1 was basically just brainstorming for a project idea.
 - [Image of all initial project ideas](/doc/InitialProjectIdeas.md)
-I also did the first c exercises.
+I also did the first c exercises, which can be found in the [INES-REPO](https://github.com/FontysVenlo/ines-course-exercises-Louis-Legere).
 
 Week2: In Week2 we narrowed the ideas down and developed a more precise understanding on what each idea would mean.
 
@@ -44,10 +44,15 @@ Week7: In week 7 I have changed quite some components from the component list si
 prjWeek1: In the first project week I have set up a basic structure for the application, creating different threads for different components that have to work separately of each other. One of them is the sound Module. It needs to be on its own thread, so it does not stop making sound once some other component is getting operated. 
 - [Completion of the sound behaviour](/doc/SoundModule.md)
 I also began testing out the distance sensor. To do so I just put it on a breadboard separately.
-- - [Initial test of the distance sensor](/doc/InitialDistanceSensor.md)
+- [Initial test of the distance sensor](/doc/InitialDistanceSensor.md)
 
 
-prjWeek2:
+prjWeek2: Since most of the components did not arrive in time we could unfortunately not work effectively in the second project week. However the decoy duck did arrive and I started preparing the frame by cutting an opening into the duck. 
+We also tested out how high the waterline would be for the final duck robot in water, by putting the approximate weight into the duck and letting it float.
+- - [Proof for duck cutting and weight measuring](/doc/duckFramePrepPrjWeek2.md)
+
+
+Week8:
 
 
 **LO2:** Student demonstrates professional skills at level 2 in the focus areas: future-oriented
@@ -83,7 +88,7 @@ Week6:
 
 Week7:
 
-prjWeek1:
+prjWeek1: In the first project week Ben designed the waterwheel model to 3d-print it. So this one I did not do personally, but we went together to the green-tech lab to targetly interact with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first try for printing anything and not even the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
 
 prjWeek2:
 
