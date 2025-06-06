@@ -95,3 +95,5 @@ prjWeek2:
 Week8: To improve the future oriented organisation we held a mid term reflection meeting to reflect on the state of the project and the efficiency of our work.
 
 prjWeek4: I informed myself about real time in computing reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783
+and this:
+https://www.geeksforgeeks.org/embedded-real-time-system/
