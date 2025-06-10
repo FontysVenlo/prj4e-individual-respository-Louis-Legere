@@ -16,6 +16,7 @@ I also want to be able to model and plan embedded systems after this project
 // maybe ill dive into vision
 //object detection
 // real time distance detection
+//add the ines stuff here
 
 **Plan:** 
 // I can link youtube videos I used for help for certain prj parts
@@ -49,10 +50,12 @@ I also began testing out the distance sensor. To do so I just put it on a breadb
 
 prjWeek2: Since most of the components did not arrive in time we could unfortunately not work effectively in the second project week. However the decoy duck did arrive and I started preparing the frame by cutting an opening into the duck. 
 We also tested out how high the waterline would be for the final duck robot in water, by putting the approximate weight into the duck and letting it float.
-- - [Proof for duck cutting and weight measuring](/doc/duckFramePrepPrjWeek2.md)
+- [Proof for duck cutting and weight measuring](/doc/duckFramePrepPrjWeek2.md)
 
 
 Week8:
+
+Week13: I found out that with several components that use pwm I should use different pwm channels (pwm eyes and Motors)
 
 
 **LO2:** Student demonstrates professional skills at level 2 in the focus areas: future-oriented
@@ -97,3 +100,8 @@ Week8: To improve the future oriented organisation we held a mid term reflection
 prjWeek4: I informed myself about real time in computing reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783
 and this:
 https://www.geeksforgeeks.org/embedded-real-time-system/
+
+
+
+
+// put some relfection in. What I learned and what I would do different next time
