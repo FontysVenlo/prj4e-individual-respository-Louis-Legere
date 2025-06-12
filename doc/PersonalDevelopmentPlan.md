@@ -9,7 +9,7 @@ After this project I want to be able to implement object detection into a embedd
 I also want to be able to model and plan embedded systems after this project
 // learning goal -> ambition -> plan!!
 // miss my ambition what I want to learn
-// there is a uml cys ml for embedded systems
+// there is a uml sys ml for embedded systems
 //other development methods
 // maybe I wanna focus on the testing of embedded systems
 // maybe control algortihms
@@ -55,6 +55,8 @@ We also tested out how high the waterline would be for the final duck robot in w
 
 Week8:
 
+Week12: Eric Peters told us about flexible cables and we learned how to attach them to housings
+
 Week13: I found out that with several components that use pwm I should use different pwm channels (pwm eyes and Motors)
 
 
@@ -74,7 +76,7 @@ In terms of group work I want to to take more initiative and have an notable imp
 // I want to broaden my investigate ability with papers books colleagues 
 // personal leadership -> become scrum master or product owner
 // 360 degree feedback
-// did I make a plan and where I able to follow the plan 
+// did I make a plan and were I able to follow the plan 
 // proof by feedback
 // make graphs of my github assignment handins
 
@@ -87,21 +89,32 @@ Week4:
 
 Week5:
 
-Week6:
+Week6: //something about pitch
 
 Week7:
 
-prjWeek1: In the first project week Ben designed the waterwheel model to 3d-print it. So this one I did not do personally, but we went together to the green-tech lab to targetly interact with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first try for printing anything and not even the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
+prjWeek1: In the first project week Ben designed the waterwheel model to 3d-print it. So this one I did not do personally, but we went together to the green-tech lab to targetly interacted with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first try for printing anything and not even the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
+I also had a meeting with mr. van Gennip to review my PDP ([proof](/doc/MeetingForPDP.md)). 
 
 prjWeek2:
 
 Week8: To improve the future oriented organisation we held a mid term reflection meeting to reflect on the state of the project and the efficiency of our work.
 
+week12:
+We went to Eric Peters to ask him about how we should connect the distance sensor and he told us to use housings.
+
 prjWeek4: I informed myself about real time in computing reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783
 and this:
 https://www.geeksforgeeks.org/embedded-real-time-system/
 
+prjWeek5/Week14: 
+targeted interaction/ future oriented research: Asked Eric Peters what to do with the broken battery cable.
+
+After Eric Peters told us about fuses I did research about fuses so we could build in 
+https://www.britannica.com/technology/fuse-electronic-device
+Here I learned where the fuse should be located:
+https://www.reddit.com/r/AskElectronics/comments/yqleyt/does_physical_location_of_the_fuse_matters/
 
 
 
-// put some relfection in. What I learned and what I would do different next time
+// put some reflection in. What I learned and what I would do different next time
