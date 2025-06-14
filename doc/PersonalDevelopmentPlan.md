@@ -77,7 +77,7 @@ We also tested out how high the waterline would be for the final duck robot in w
 **Week11:**
 
 **prjWeek3/Week12:** 
-Eric Peters told us about flexible cables and we learned how to attach them to housings
+I changed several copper wires to flexible wires, so that they are less likely to break and attached them to housings so they fit to the pins of our components.
 
 **prjWeek4/Week13:** 
 I found out that with several components that use pwm I should use different pwm channels (pwm eyes and Motors)
@@ -100,6 +100,7 @@ I want to consider future oriented organisation, develop my investigative abilit
 1. I want to always hand in assignments on time.
 2. I want to broaden my knowledge independently in a self driven way.
 3. I want to reflect on my performance and actions in the project and improve based on that.
+4. I want to be present on time every day.
 
 **investigative ability (IA):**
 1. I want to analyse problems that hinder the groups and projects progress and find ways to -resolve them.
@@ -138,12 +139,15 @@ To apply future oriented organisation during our project we held daily stand-up 
 
 **Week5:**
 
-**Week6:** //something about pitch
+**Week6:** 
+I worked on and held the pitch trying to improve my communication and presentation skills. However I got feedback to speak more openly and therefore more directly to the audience. This makes a lot of sense since I read from my phone  and I learned out of that to prepare and practise my pitches before holding them.
+[Pitch Speech](/doc/PitchSpeech.md)
 
 **Week7:**
 
 **prjWeek1:** 
 In the first project week Ben designed the waterwheel model to 3d-print it. So I did not do this one personally, but we went together to the green-tech lab to targetly interacted with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first prototype for printing a wheel and let to us changing the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
+
 I also had a meeting with mr. van Gennip to review my PDP ([proof](/doc/MeetingForPDP.md)). 
 
 **prjWeek2:**
@@ -159,6 +163,8 @@ We held a mid term reflection meeting to reflect on the state of the project and
 
 **prjWeek3/week12:**
 We had a meeting with Mr. Eric Peters to seek information about how we should connect the distance sensor to cables.
+
+To see what I have learned from that click [here](/doc/whatHaveIlearnedPetersPrjWeek3.md)
 
 **prjWeek4/Week13:** 
 I informed myself about real time reacting code reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783

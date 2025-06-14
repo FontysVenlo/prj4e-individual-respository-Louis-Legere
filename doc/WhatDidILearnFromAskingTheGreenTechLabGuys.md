@@ -6,3 +6,5 @@ But after talking to the Green-Tech-Lab experts I learned that the models are no
 ![TheTestWaterwheelPrint](images/TheTestWaterwheelPrint.jpg)
 
 As you can see the top layer was cut out so that there is no overhang. This is less ideal, but a working compromise. The insight of the material and printing process helped greatly for printing all the other components.
+
+[go back](/doc/PersonalDevelopmentPlan.md)
