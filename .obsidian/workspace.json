@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/SoundModule.md",
+                "file": "doc/PersonalDevelopmentPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SoundModule"
+              "title": "PersonalDevelopmentPlan"
             }
           }
         ]
@@ -168,18 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b39c2bcce7ebfdee",
+  "active": "b7b8917c34e094f0",
   "lastOpenFiles": [
+    "src/main.cpp",
+    "doc/SoundModule.md",
+    "doc/InitialDistanceSensor.md",
     "doc/PersonalDevelopmentPlan.md",
     "README.md",
     "dataSheets/Serial.md",
     "Pasted image 20250614132605.png",
-    "doc/SoundModule.md",
     "dataSheets",
     "Serial.md",
     "doc/MeetingForPDP.md",
     "doc/dataSheets/Serial Control USB MP3 v1.1 Manual.pdf",
-    "doc/InitialDistanceSensor.md",
     "doc/dataSheets",
     "doc/feedbackWeek6.md",
     "doc/feedbackWeek5.md",
