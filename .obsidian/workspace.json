@@ -170,6 +170,7 @@
   },
   "active": "b7b8917c34e094f0",
   "lastOpenFiles": [
+    "src/initialSoundModuleCode.cpp",
     "src/main.cpp",
     "doc/SoundModule.md",
     "doc/InitialDistanceSensor.md",
