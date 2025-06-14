@@ -83,6 +83,7 @@ Eric Peters told us about flexible cables and we learned how to attach them to h
 I found out that with several components that use pwm I should use different pwm channels (pwm eyes and Motors)
 
 **prjWeek5/Week14:**
+fuses. Soldering everything with pins and float test. Soldering cables to battery
 
 
 ## **LO2:** 
@@ -91,11 +92,28 @@ organisation, investigative ability, personal leadership, and targeted
 interaction.
 
 ##### **In my own words:**  
-I want to consider future oriented organisation, develop my investigative ability by analysing important issues, extend my personal leadership with constantly extending my own knowledge independently and apply targeted interaction implementing a proper group communication.
+I want to consider future oriented organisation, develop my investigative ability by analysing important issues that hinder the project and finding steps to resolve them. I want to extend my personal leadership with constantly extending my own knowledge independently, being always on time and reflecting on my performance. To apply targeted interaction I want to not only hold a proper communication to my project group, but also to teachers and other individuals that I can learn from throughout the project and collaborate with them to achieve a better project outcome.
 
 ##### **Ambition**
-After this project I want to extend my personal leadership in a way where always hand in assignments on time and still try to broaden my knowledge independently from university in a self driven way.
-In terms of group work I want to to take more initiative and have an notable impact on the whole project. Therefore I need to know about all the different aspects of the project improving my investigative ability.
+
+**personal leadership (PL):**
+1. I want to always hand in assignments on time.
+2. I want to broaden my knowledge independently in a self driven way.
+3. I want to reflect on my performance and actions in the project and improve based on that.
+
+**investigative ability (IA):**
+1. I want to analyse problems that hinder the groups and projects progress and find ways to -resolve them.
+2. I want to broaden my investigative ability by not only gathering information from university material and articles, but also by actively asking experts for their opinion.
+
+**future oriented research (FOR):**
+1. I want to use a Kanban board during the project to make the project and tasks plannable.
+2. I want to test out final parts of the project as prototypes earlier to later have to knowledge to correct all the mistakes I made developing the prototypes.
+3. I want to do research before big decisions to mitigate risks.
+
+**Targeted interaction (TI):**
+1. I want to learn from experts such as teachers or students in different other study fields.
+2. I want to self driven interact with helpful people outside of my project group to train my professional behaviour skills, getting more used to work related interaction and counteract my introverted personality. Since this introverted personality keeps me back from learning from other people.
+
 // not precise enough and what exactly I want to improve
 // I want to be more reliable or on time
 // taking initiative
@@ -108,7 +126,6 @@ In terms of group work I want to to take more initiative and have an notable imp
 
 // here its more convince than proof
 **Plan:**
-
 To apply future oriented organisation during our project we held daily stand-up meetings. The role of the chairman switched every day in order to develop the personal leadership of every group member. We also used the Kanban board and moved the tickets that changed status after every stand-up meeting.
 
 **Week1:**
@@ -126,13 +143,13 @@ To apply future oriented organisation during our project we held daily stand-up 
 **Week7:**
 
 **prjWeek1:** 
-In the first project week Ben designed the waterwheel model to 3d-print it. So this one I did not do personally, but we went together to the green-tech lab to targetly interacted with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first try for printing anything and not even the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
+In the first project week Ben designed the waterwheel model to 3d-print it. So I did not do this one personally, but we went together to the green-tech lab to targetly interacted with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first prototype for printing a wheel and let to us changing the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
 I also had a meeting with mr. van Gennip to review my PDP ([proof](/doc/MeetingForPDP.md)). 
 
 **prjWeek2:**
 
 **Week8:** 
-To improve the future oriented organisation we held a mid term reflection meeting to reflect on the state of the project and the efficiency of our work.
+We held a mid term reflection meeting to reflect on the state of the project and the efficiency of our work. ([results](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/dev/documentation/retrospective-results.md))
 
 **Week9:**
 
@@ -141,17 +158,17 @@ To improve the future oriented organisation we held a mid term reflection meetin
 **Week11:**
 
 **prjWeek3/week12:**
-We went to Eric Peters to ask him about how we should connect the distance sensor and he told us to use housings.
+We had a meeting with Mr. Eric Peters to seek information about how we should connect the distance sensor to cables.
 
 **prjWeek4/Week13:** 
-I informed myself about real time in computing reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783
-and this:
+I informed myself about real time reacting code reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783
+and this one:
 https://www.geeksforgeeks.org/embedded-real-time-system/
 
 **prjWeek5/Week14:** 
-targeted interaction/ future oriented research: Asked Eric Peters what to do with the broken battery cable.
+To find out what to do with a cable that broke from the battery me and my team went to Mr. Eric Peters to find a solution for that issue.
 
-After Eric Peters told us about fuses I did research about fuses so we could build in 
+After Mr. Eric Peters told us about fuses I did research about fuses so we could build them in 
 https://www.britannica.com/technology/fuse-electronic-device
 Here I learned where the fuse should be located:
 https://www.reddit.com/r/AskElectronics/comments/yqleyt/does_physical_location_of_the_fuse_matters/

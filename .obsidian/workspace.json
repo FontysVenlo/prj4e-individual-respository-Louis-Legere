@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/InitialDistanceSensor.md",
+                "file": "doc/PersonalDevelopmentPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InitialDistanceSensor"
+              "title": "PersonalDevelopmentPlan"
             }
           }
         ]
@@ -170,11 +170,12 @@
   },
   "active": "b39c2bcce7ebfdee",
   "lastOpenFiles": [
+    "doc/duckFramePrepPrjWeek2.md",
+    "doc/PersonalDevelopmentPlan.md",
+    "doc/InitialDistanceSensor.md",
     "src/initialDistanceSensorCode.cpp",
     "src/main.cpp",
     "doc/SoundModule.md",
-    "doc/InitialDistanceSensor.md",
-    "doc/PersonalDevelopmentPlan.md",
     "src/initialSoundModuleCode.cpp",
     "README.md",
     "dataSheets/Serial.md",
@@ -196,7 +197,6 @@
     "doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md",
     "doc/InitialProjectIdeas.md",
     "doc/images/WaterwheelDesign.jpg",
-    "doc/duckFramePrepPrjWeek2.md",
     "doc/images/TheTestWaterwheelPrint.jpg",
     "doc/images/WaterwheelDesign 1.jpg",
     "doc/images/Waterline.jpg",

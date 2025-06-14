@@ -4,6 +4,6 @@ And luckily it did work and actually displayed the distances:
 ![Distances](images/Distances.png "Distances")
 Getting it to work was not a big issue and only uses simple physics calculations.
 
-[Initial code that I tried the module out with on a seperate breadbord](https://github.com/FontysVenlo/prj4e-individual-respository-Louis-Legere/blob/main/src/initialSoundModuleCode.cpp)
+[Initial code that I tried the module out with on a seperate breadbord](https://github.com/FontysVenlo/prj4e-individual-respository-Louis-Legere/blob/main/src/initialDistanceSensorCode.cpp)
 
 [go back](/doc/PersonalDevelopmentPlan.md)
