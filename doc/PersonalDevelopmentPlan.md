@@ -23,6 +23,8 @@ I also want to be able to model and plan embedded systems after this project
 // I can link youtube videos I used for help for certain prj parts
 // also OSCO and INES
 
+// project charter !!!
+
 **Week1:**
 Week1 was basically just brainstorming for a project idea.
 - [Image of all initial project ideas](/doc/InitialProjectIdeas.md)
@@ -31,28 +33,40 @@ I also did the first c exercises, which can be found in the [INES-REPO](https://
 **Week2:** 
 In Week2 we narrowed the ideas down and developed a more precise understanding on what each idea would mean.
 
+I also continued doing the c exercises ([INES-REPO](https://github.com/FontysVenlo/ines-course-exercises-Louis-Legere)).
+
 **Week3:** 
 In Week3 we decided on the duck robot as the idea that will be build. 
 - [Concept art of the duck](/doc/ConceptArtDuck.md)
 - [Initial Project Idea](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/main/documentation/initial-project-idea.md)
+At the same time I learned project relevant knowledge in the INES course. What I learned can be seen [here](/doc/inesFeedbackWeek3.md).
 
 **Week4:** 
 We made the duck idea more clear and started to formulated what the duck has to be able to do. 
 We received the [feedback](/doc/feedbackWeek4.md) to limit the duck to only one environment and therefore decided to focus on water. 
+
 I also started to work on the component list.
+
+At the same time I learned project relevant knowledge in the INES course. What I learned can be seen [here](/doc/inesFeedbackWeek4.md).
 
 **Week5:**
 In week 5 I got this [feedback](/doc/feedbackWeek5.md) and mainly researched into components to use for our project. I focused on the Speaker, compass, step down converter, distance sensor and micro controller. Although tome had to be changed later. Also I had to find a way to store sound files.
 - [ComponentList](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/main/documentation/GreatComponentList.md)
 Here I focused on the specifications of the components. Trying to find out whether they work with whatever micro controller we would choose. I had to consider the voltage needed, current consumption and with what protocols different components communicate. This was the first time that I really read through datasheets. However mistakes where made and will be reflected on and also explained in later weeks where I had to change some of the components.
 
+At the same time I learned project relevant knowledge in the INES course. What I learned can be seen [here](/doc/inesFeedbackWeek5.md).
+
 **Week6:** 
 I prepared, worked on and held the pitch 
  - [Pitch Speech](/doc/PitchSpeech.md)
-In this weeks [feedback file](/doc/feedbackWeek6.md) you can see what I have learned from that and also from other feedback.
+In this weeks [feedback](/doc/feedbackWeek6.md) you can see what I have learned from that and also from other feedback.
+
+At the same time I learned project relevant knowledge in the INES course. What I learned can be seen [here](/doc/inesFeedbackWeek6.md).
 
 **Week7:** 
 In week 7 I have changed quite some components from the component list since they turned out to be suboptimal. Therefore the speaker and SD card reader changed to a [sound-module](https://www.tinytronics.nl/en/audio/audio-sources/open-smart-mp3-module-with-speaker) that combines both and will be easier to operate. The reason for that was that the previously chosen SD-card module was badly documented and the speaker needed an additional speaker-driver to work. To make sure that all the parts actually work together I decided for the previously mentioned sound module that already combines all of them and has practical commands that enable us to play specific mp3 files stored on a SD-card.
+
+At the same time I learned project relevant knowledge in the INES course. What I learned can be seen [here](/doc/inesFeedbackWeek7.md).
 
 
 **prjWeek1:** 
@@ -60,6 +74,7 @@ In the first project week I have set up a basic structure for the application, c
 - [Completion of the sound behaviour](/doc/SoundModule.md)
 I also began testing out the distance sensor. To do so I just put it on a breadboard separately.
 - [Initial test of the distance sensor](/doc/InitialDistanceSensor.md)
+After testing out the code individually I combined it in the main repository.
 
 
 **prjWeek2:** 
@@ -70,14 +85,18 @@ We also tested out how high the waterline would be for the final duck robot in w
 
 **Week8:**
 
-**Week9:**
+I unfortunately do not have a feedpuls entry here for INES, but I learned about AD-conversion in this week, which also turned out to be very helpful for the project later.
+
+**Week9:** 
 
 **Week10:**
+After the motors arrived and we tried them out it was quite a struggle to find a way to connect them to the wheel of the duck, since the holes in the connector that is supposed to go onto the motors are to small for even the smallest screws that we were able to find in the Fontys workshop.
+After receiving the [feedback](/doc/feedbackWeek10.md) at the Tuesday coaching meeting we decided to 3d-print the connector with the wheel all together.
 
 **Week11:**
 
 **prjWeek3/Week12:** 
-I changed several copper wires to flexible wires, so that they are less likely to break and attached them to housings so they fit to the pins of our components.
+I changed several copper wires to flexible wires, so that they are less likely to break and attached them to housings so they fit to the pins of our components. I tinned the other side of the cable to make them fit onto a breadboard. //proof to be added
 
 **prjWeek4/Week13:** 
 I found out that with several components that use pwm I should use different pwm channels (pwm eyes and Motors)
