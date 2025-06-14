@@ -4,4 +4,7 @@ The sound module is now working already as it is supposed to work in the final p
 
 [dataSheet](https://github.com/FontysVenlo/prj4e-individual-respository-Louis-Legere/blob/main/doc/dataSheets/Serial%20Control%20USB%20MP3%20v1.1%20Manual.pdf)
 
+[Initial code that I tried the module out with on a seperate breadbord](https://github.com/FontysVenlo/prj4e-individual-respository-Louis-Legere/blob/main/src/initialSoundModuleCode.cpp)
+
+
 [go back](/doc/PersonalDevelopmentPlan.md)
