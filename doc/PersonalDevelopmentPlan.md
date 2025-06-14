@@ -24,6 +24,7 @@ I also want to be able to model and plan embedded systems after this project
 // also OSCO and INES
 
 // project charter !!!
+//OSCO knowledge!!!
 
 **Week1:**
 Week1 was basically just brainstorming for a project idea.
