@@ -8,4 +8,7 @@ Here I put red LED's in both eyes to later attach a PWM signal to so that the pu
 I also filed down the connectors of our small breadboard. Now it could not connect other breadboards anymore, but it fits into boxes that we have prepared for improved water-protection.
 ![fillingBreadboard](images/fillingBreadboard.jpg)
 
+That is what the boxes look like:
+![boxes](images/boxes.jpg)
+
 [go back](/doc/PersonalDevelopmentPlan.md)

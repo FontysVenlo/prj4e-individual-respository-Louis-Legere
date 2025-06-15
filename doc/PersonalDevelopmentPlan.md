@@ -119,14 +119,20 @@ I also want to be able to model and plan embedded systems after this project
 
 - In order to make our distance sensor fit into a 3D-printed casing me and Ben tried to de-solder the pins of the distance sensor and re-solder them on the sensor the other way around. Eric Peters helped us de-solder them and we soldered them back on ourselves. However Eric Peters did warn us that this is risky and might destroy the component. We decided to try it anyway and it indeed did destroy the component. However we at least gained some solder experience and the knowledge to be careful with de-soldering pins from components. ([proof](distanceSensorSoldering.md))
 
-- To be able to turn off both power circuits of the duck robot off at the same time we connected our circuits to a double pole switch. To do that I soldered the wires onto it [proof](solderingTheSwitch.md)
+- To be able to turn off both power circuits of the duck robot off at the same time we connected our circuits to a double pole switch. To do that I soldered the wires onto it ([proof](solderingTheSwitch.md))
 
 - I drilled holes in the eyes of the duck to replace them with two red LED's to connect them to a PWM signal and filled down connectors of our breadbord to make it fit into our boxes. ([proof](duckEyes.md))
   However I first tried the eyes out on a separate breadboard and they worked, but they failed to work properly together with the whole code for the entire duck robot. It turned out the the problem was that we accidentally used the same PWM signal channels for the motors and the eye-LED's. I learned out of to always look out for the PWM channels when working with multiple components that use PWM.
 
 
 **prjWeek5/Week14:**
-fuses. Soldering everything with pins and float test. Soldering cables to battery
+- I drilled a hole into the duck to attach the switch and filed down material from the distance sensor case since the old distance sensor broke and we did not want to break the new one as well. ([proof](holeForSwitch.md))
+
+- Since we still had the problem that wires broke or got pulled out while assembling the duck we decided to solder all the previously tinned ends of the flexible wires to pins that fit into the breadboard and turned out more durable. To make sure no short circuits appear we also decided to use heat-shrinks. ([proof](solderingPins.md))
+
+- To make sure that the batteries do not get dangerously hot in case that a short circuit does appear I built in fuses into the duck. ([proof](fuses.md))
+
+- When we tested the duck we finally had the opportunity to really play around a bit with the code. It turned out that the duck did not turn around far enough when driving towards an obstacle. However we immediately fixed that by adjusting the speed while turning. At first no water entered the duck, but it turned out that with too high speed some water does enter the duck. However nothing got damaged and we adjusted accordingly. ([proof](duckSwimming.md))
 
 
 ## **LO2:** 
