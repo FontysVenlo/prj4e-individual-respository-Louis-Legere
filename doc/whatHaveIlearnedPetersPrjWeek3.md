@@ -1,5 +1,5 @@
 
-When we went to Mr. Eric Peters he told us that the cables we were using were wrong. He explained us the difference between flexible cables and normal cables. It turned out that flexible cables do not break as easy as normal cables and that we can use a housing to connect it to the distance sensor. This helped immensely since we had a lot of issues with breaking cables up to this point.
+When we went to Mr. Eric Peters he told us that the cables we were using were wrong. He explained to us the difference between flexible cables and normal cables. It turned out that flexible cables do not break as easy as normal cables and that we can use a housing to connect it to the distance sensor. This helped immensely since we had a lot of issues with breaking cables up to this point.
 
 ![FlexibleCabelWithHousing](images/flexibleCabelWithHousing.jpg "FlexibleCabelWithHousing")
 

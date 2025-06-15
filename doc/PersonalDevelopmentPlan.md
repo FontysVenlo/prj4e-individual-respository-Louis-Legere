@@ -6,20 +6,11 @@ Student plans and executes a project in their track at level 2 of the HBO-i fram
 I want to build a duck shaped robot while focusing on two main activities: Design in Hardware Interfacing and Realisation in Software. Level 2 of the HBO cube would include integrating a hardware interface and including security and system performance to also ensure real time aspects.
 
 //maybe take advice
-
 ##### **Ambition**
 After this project I want to be able to implement object detection into an embedded machine using a distance sensor. I also want to develop a motion algorithm that turns the robot when detecting an obstacle ahead.
 I want to learn about electrical circuits and how to connect bigger projects with hardware to software and the communication between those components.
 
-// there is a uml sys ml for embedded systems
-// maybe I wanna focus on the testing of embedded systems
-// maybe control algortihms
-// maybe ill dive into vision
-//object detection
-
-**Plan:** 
-// I can link youtube videos I used for help for certain prj parts
-
+##### **Plan:** 
 
 **Week1:**
 - Week1 was basically just brainstorming for a project idea.
@@ -99,7 +90,6 @@ I want to learn about electrical circuits and how to connect bigger projects wit
 - We tried out the motor for the first time here and it did work. However we could not try it out too much since we did not have the batteries yet and the LiLiGo does not put out enough current to test it safely. Luckily we soon got a 6V adaptor from Mr. van Gennip, which enabled us to test the motors connected in a parallel circuit.
 
 **Week9:** 
-
 - I tried to create a sys-ML requirement diagram, which can be seen [here.](requirementDiagram.md)
 
 - Week9 consisted a lot of trying to find out how to connect the motors to the duck and moreover how to connect the waterwheels to the motors. Read everything about this struggle [here.](HowToConnectTheWaterWheelToTheMotor.md)
@@ -111,9 +101,14 @@ I want to learn about electrical circuits and how to connect bigger projects wit
 
 
 **Week11:**
+- We tried to assemble the whole electrical system as much as possible without the frame to see if all the components would work together and they did.
+
+- I also drilled holes into the side of the duck, to attach the motors to it.
 
 
 **prjWeek3/Week12:** 
+- This is this weeks [feedback](/doc/feedbackWeek12.md).
+
 - I changed several copper wires to flexible wires, so that they are less likely to break and attached them to housings so they fit to the pins of our components. I tinned the other side of the cable to make them fit onto a breadboard. ([proof](creatingHousingsForFlexibleCables.md))
 
 - I connected the distance sensor and motors in code creating the movement logic. It uses a state variable that is either 1, 2 or 3, which determines if the duck drives, turns or stops. The state gets changed depending on which distances the distance sensor detects. The stop makes sure that the motors do not go directly from spinning on full speed in one direction to spinning on full speed in the other direction immediately. ([git commit](https://github.com/FontysVenlo/prj4e-repository-group_e02/commit/df9a710b98c745616f41f2f1615af70fef52131f))
@@ -130,8 +125,10 @@ I want to learn about electrical circuits and how to connect bigger projects wit
 
 - To be able to turn off both power circuits of the duck robot off at the same time we connected our circuits to a double pole switch. To do that I soldered the wires onto it ([proof](solderingTheSwitch.md))
 
-- I drilled holes in the eyes of the duck to replace them with two red LED's to connect them to a PWM signal and filled down connectors of our breadbord to make it fit into our boxes. ([proof](duckEyes.md))
+- I drilled holes in the eyes of the duck to replace them with two red LED's to connect them to a PWM signal and filled down connectors of our breadboard to make it fit into our boxes. ([proof](duckEyes.md))
   However I first tried the eyes out on a separate breadboard and they worked, but they failed to work properly together with the whole code for the entire duck robot. It turned out the the problem was that we accidentally used the same PWM signal channels for the motors and the eye-LED's. I learned out of to always look out for the PWM channels when working with multiple components that use PWM.
+
+- I tested the step-down-converter for the first time, which worked perfectly and made it way clearer how to implement it into the whole application. We now needed that one since we decided for a second power circuit just for all the components apart from the motors. Therefore we decided to power the LiLiGo trough pen-lite batteries, which needed to go down in voltage.
 
 
 **prjWeek5/Week14:**
@@ -169,7 +166,7 @@ I want to consider future oriented organisation, develop my investigative abilit
 
 **investigative ability (IA):**
 1. I want to analyse problems that hinder the groups and projects progress and find ways to -resolve them.
-2. I want to broaden my investigative ability by not only gathering information from university material and articles, but also by actively asking experts for their opinion.
+2. I want to broaden my investigative ability by not only gathering information from university material and articles, but also by actively asking experts for their opinion and consuming informational videos.
 
 **future oriented research (FOR):**
 1. I want to use a Kanban board during the project to make the project and tasks plannable.
@@ -180,18 +177,8 @@ I want to consider future oriented organisation, develop my investigative abilit
 1. I want to learn from experts such as teachers or students in different other study fields.
 2. I want to self driven interact with helpful people outside of my project group to train my professional behaviour skills, getting more used to work related interaction and counteract my introverted personality. Since this introverted personality keeps me back from learning from other people.
 
-// taking initiative
-// I want to broaden my investigate ability with papers books colleagues 
-// personal leadership -> become scrum master or product owner
-// 360 degree feedback
-// did I make a plan and were I able to follow the plan 
-// proof by feedback
-// make graphs of my github assignment handins
-
-**Plan:**
+##### **Plan:**
 To apply future oriented organisation during our project we held daily stand-up meetings. The role of the chairman switched every day in order to develop the personal leadership of every group member. We also used the [Kanban board](https://github.com/orgs/FontysVenlo/projects/618) and moved the tickets that changed status after every stand-up meeting.
-
-
 
 **Week1:**
 

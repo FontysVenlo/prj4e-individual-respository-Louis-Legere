@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "486184ce7b2ad45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/whatHaveIlearnedPetersPrjWeek3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "whatHaveIlearnedPetersPrjWeek3"
+            }
+          },
+          {
+            "id": "0df8c0d9986c4d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WhatDidILearnFromAskingTheGreenTechLabGuys"
+            }
+          },
+          {
             "id": "96f3ef31fc66e5b1",
             "type": "leaf",
             "state": {
@@ -34,9 +62,22 @@
               "icon": "lucide-file",
               "title": "PersonalDevelopmentPlan"
             }
+          },
+          {
+            "id": "96c9a531b2a86b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/feedbackWeek10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "feedbackWeek10"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,17 +224,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96f3ef31fc66e5b1",
+  "active": "b39c2bcce7ebfdee",
   "lastOpenFiles": [
+    "doc/feedbackWeek12.md",
+    "doc/PersonalDevelopmentPlan.md",
+    "doc/fuses.md",
+    "doc/whatHaveIlearnedPetersPrjWeek3.md",
+    "doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md",
+    "doc/feedbackWeek10.md",
+    "doc/images/feedbackWeek12.png",
     "doc/designWaterwheel.md",
     "doc/distanceSensorSoldering.md",
-    "doc/PersonalDevelopmentPlan.md",
     "doc/images/thePlan.jpg",
     "doc/HowToConnectTheWaterWheelToTheMotor.md",
     "doc/inesFeedbackWeek3.md",
     "doc/images/connectionPrototype.jpg",
     "doc/images/motorConnector.png",
-    "doc/feedbackWeek10.md",
     "doc/requirementDiagram.md",
     "doc/silicone.md",
     "doc/PitchSpeech.md",
@@ -204,23 +250,18 @@
     "doc/duckSwimming.md",
     "doc/feedbackWeek4.md",
     "doc/images/swimming.png",
-    "doc/fuses.md",
     "doc/holeForSwitch.md",
     "doc/images/fuse.jpg",
     "doc/solderingPins.md",
     "doc/solderingTheSwitch.md",
     "doc/images/heatshrink.jpg",
     "doc/images/filingCasing.jpg",
-    "doc/images/holeForSwitch.jpg",
     "doc/SoundModule.md",
     "doc/customBolts.md",
     "doc/usingThePress.md",
     "doc/MeetingForPDP.md",
     "doc/duckFramePrepPrjWeek2.md",
-    "doc/whatHaveIlearnedPetersPrjWeek3.md",
     "doc/inesFeedbackWeek4.md",
-    "doc/inesFeedbackWeek7.md",
-    "doc/inesFeedbackWeek6.md",
     "src/initialDistanceSensorCode.cpp",
     "src/main.cpp",
     "src/initialSoundModuleCode.cpp",
