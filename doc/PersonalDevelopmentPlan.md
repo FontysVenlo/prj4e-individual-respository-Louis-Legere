@@ -1,4 +1,4 @@
-
+	
 ## **LO1:** 
 Student plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way
 
@@ -96,15 +96,16 @@ I want to learn about electrical circuits and how to connect bigger projects wit
 **Week8:**
 - I unfortunately do not have a feedpuls entry here for INES, but I learned about AD-conversion in this week, which also turned out to be very helpful for the project later.
 
-- We tried out the motor for the first time here and it did work. However we could not try it out too much since we did not have the batteries yet and the LiLiGo does not put out enough current to test it safely.
+- We tried out the motor for the first time here and it did work. However we could not try it out too much since we did not have the batteries yet and the LiLiGo does not put out enough current to test it safely. Luckily we soon got a 6V adaptor from Mr. van Gennip, which enabled us to test the motors connected in a parallel circuit.
 
 **Week9:** 
 
 - I tried to create a sys-ML requirement diagram, which can be seen [here.](requirementDiagram.md)
 
+- Week9 consisted a lot of trying to find out how to connect the motors to the duck and moreover how to connect the waterwheels to the motors. Read everything about this struggle [here.](HowToConnectTheWaterWheelToTheMotor.md)
+
 **Week10:**
-- After the motors arrived and we tried them out it was quite a struggle to find a way to connect them to the wheel of the duck, since the holes in the connector that is supposed to go onto the motors are to small for even the smallest screws that we were able to find in the Fontys workshop.
-  So after receiving the [feedback](/doc/feedbackWeek10.md) at the Tuesday coaching meeting we decided to 3d-print the connector with the wheel all together.
+-  After receiving the [feedback](/doc/feedbackWeek10.md) at the Tuesday coaching meeting we decided to 3d-print the connector with the waterwheel all together in order to connect it to the motor. I came up with a [design](/doc/designWaterwheel.md) and Ben model it.
 
 - I slightly changed the code structure separating the file that controls the motor from the movement logic itself. ([git commit](https://github.com/FontysVenlo/prj4e-repository-group_e02/commit/5d4643c9702fbaec31974e3d3dce5e7f5d98cbd3))
 
