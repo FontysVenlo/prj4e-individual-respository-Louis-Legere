@@ -5,7 +5,6 @@ Student plans and executes a project in their track at level 2 of the HBO-i fram
 ##### **In my own words:** 
 I want to build a duck shaped robot while focusing on two main activities: Design in Hardware Interfacing and Realisation in Software. Level 2 of the HBO cube would include integrating a hardware interface and including security and system performance to also ensure real time aspects.
 
-//maybe take advice
 ##### **Ambition**
 After this project I want to be able to implement object detection into an embedded machine using a distance sensor. I also want to develop a motion algorithm that turns the robot when detecting an obstacle ahead.
 I want to learn about electrical circuits and how to connect bigger projects with hardware to software and the communication between those components.
@@ -275,3 +274,23 @@ _Unfortunately since a lot of components were missing in the second project week
   https://www.reddit.com/r/AskElectronics/comments/yqleyt/does_physical_location_of_the_fuse_matters/
 
 ## **Reflection:** 
+
+In retrospective I do believe that after doing the project and taking the Embedded Systems direction as a whole, I am now able to build a basic robot and have learned quite a bit about low level programming and electricity. I am proud of the final outcome of our project and believe that I did a good job and that doing this project was beneficial for me skill wise.
+I have learned quite a lot about different components and especially working with electrical circuits, which I did not learn before in my informatics studies.
+And most importantly I had fun.
+
+**What would I do differently next time?**
+However in hindsight some things could have been improved. We failed to properly secure the connection of the motor to the waterwheel from water entry. For example we failed to put some water blocking object like an O-ring in between the motor and the outer wall of the duck. And once the Motor was installed and the wall of the duck and the bolts have been glued over with silicon it was impossible to resolve this mistake. Ideally the motors should have been stored further inside the duck anyways, but this was not possible with our limited space. In future projects that involve water proofing I would try to use certain grease that does not mix with water to further protect critical sections. 
+Additionally it would have been a great idea to install some kind of water sensor inside of the duck, to be able to notice from the outside if water got into it. 
+During building the duck one of our motors and one distance sensor broke. From that I have learned the hard way that de-soldering pins can be dangerous to certain component's and that one should always double check whether power and ground are connected properly to a component.
+Another thing that I would do differently in future embedded projects would be to use flexible cables as soon as possible instead of normal copper cables for breadboards, since those broke a lot during the project, which was also caused by us de-assembling the components to often and miscalculating the size of the hole that we have put into the duck to fit all the necessary components in.
+I also failed to properly keep track of my progress. I did not always enter all my progress into my PDP in an acceptable time frame. This way it was harder for me to reconstruct it at the end, however I still think that I did quite good, based on what I did note down, put into feedpuls and could see in images. However in the next projects, I want to avoid this struggle by keeping track of my progress immediately.
+From a self organisation standpoint I want to try to stick to fixed-time breaks in future projects. I tend to not take any breaks while distributing my own work-time in project weeks. I think I could have better efficiency during work time, when I separate work and break more clearly, respecting both more. 
+
+**What did work well?**
+I was able to full fill my role in software realisation very well. I managed to work with all the components that I was supposed to use and created a working movement algorithm.
+From a soft skill viewpoint I really wanted to improve my social skills. I have always been an introverted person and this project really put me out of my comfort zone, since I had to talk to a lot of different people outside of my project group, which was quite exhausting for me. This is something I would like to improve further in future projects, even though I think that it already worked quite well.
+I also believe my drive to put effort into the project and contribute was very good.
+
+
+//some final words
