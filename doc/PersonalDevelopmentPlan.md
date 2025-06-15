@@ -180,38 +180,53 @@ I want to consider future oriented organisation, develop my investigative abilit
 ##### **Plan:**
 To apply future oriented organisation during our project we held daily stand-up meetings. The role of the chairman switched every day in order to develop the personal leadership of every group member. We also used the [Kanban board](https://github.com/orgs/FontysVenlo/projects/618) and moved the tickets that changed status after every stand-up meeting.
 
-**Week1:**
-
-**Week2:**
+Week1/2:
+_In week 1 and 2 we mainly brainstormed about which different projects would be interesting, without having the pressure to immediately choose one. Therefore I did not do a lot of LO2 related things here. The only thing might be the coaching meetings, which could count as targeted interaction._
 
 **Week3:**
+- We had a lot of ideas initially on what could be our project. Therefore we had quite some disagreements within our group. I wanted to build a spying device, where as Ben wanted to build a smart door system and Alice was more or less fine with both projects. We solved this issue by choosing the duck robot as a project, which was of course not our favourite option, but was interesting for all of us regardless.
 
-**Week4:**
+**Week4/5:**
 
-**Week5:**
+- In week 4 and also week 5 I worked on the component list, putting a lot of research into the different components. For that I had to research through a lot of different data sheets, but most notably through [the datasheets of our final components](https://github.com/FontysVenlo/prj4e-repository-group_e02/tree/dev/documentation/datasheets).
 
 **Week6:** 
 - I worked on and held the pitch trying to improve my communication and presentation skills. However I got feedback to speak more openly and therefore more directly to the audience. This makes a lot of sense since I read from my phone  and I learned out of that to prepare and practise my pitches before holding them.
   [Pitch Speech](/doc/PitchSpeech.md)
 
+- Me and my team asked Mr. Peters if he has a 12V battery for us and this surprisingly turned out with us deciding against a 12V motor. So it turned out to be more an investigation than just picking up a battery, because of Mr. Peters suggestions. More about that can be seen in [week 6's feedback](/doc/feedbackWeek6.md).
+
 **Week7:**
 
 **prjWeek1:** 
 - In the first project week Ben designed the waterwheel model to 3d-print it. So I did not do this one personally, but we went together to the green-tech lab to targetly interacted with them in order to find out how to print it in the best way and what to look out for. I think this also counts as future oriented research since this was only the first prototype for printing a wheel and let to us changing the final wheel design. If you want to find out what I learned from that click [here](/doc/WhatDidILearnFromAskingTheGreenTechLabGuys.md).
+- We propably went 7 or more times after that to the green-tech lab for printing something. I will not put it in every separate week, but it is targeted interaction and the fact that it happened is important for my reflection. 
 
 - I had a meeting with mr. van Gennip to review my PDP ([proof](/doc/MeetingForPDP.md)). 
 
-**prjWeek2:**
+- I created two prototypes. One of the distance-sensor and one of the sound-module, to find out more about how they will work later in the proper system. 
+  ([Information on the sound-Module prototype](/doc/SoundModule.md)) 
+  ([Information on the distance-sensor prototype](/doc/InitialDistanceSensor.md))
 
+
+**prjWeek2:**
+_Unfortunately since a lot of components were missing in the second project week, we did not meet at some of the days and I did not have to use many LO2 related skills._
 
 **Week8:** 
 - We held a mid term reflection meeting to reflect on the state of the project and the efficiency of our work. ([results](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/dev/documentation/retrospective-results.md))
 
 **Week9:**
+- Since we had quite big issues connecting the Waterwheels to the motors, we came up with very different approaches on how to connect the waterwheels and therefore disagreements. Ben had a lot of ideas that I did not think were realistic, what he spend a lot of time on trying to explain. I however also did not have the perfect approach, but I felt like we wasted a lot of time with approaches that will not work anyways. What I want to take out of that conflict for future projects is that I should regardless listen to other's ideas, even tough I think that they will not work, because it did indeed sometimes happen throughout this project that Ben did have an idea that I at first thought to be unrealistic, but turned out to work well. However pointing out the unrealistic parts are still important, to avoid investing to much time into an approach that would not work anyways. Therefore bringing in own ideas that I am certain to function and extending that with aspects from Ben did work pretty well at the end. This way we managed to design a pretty good waterwheel connection system to the motor regardless of previous problems. My initial design can be seen [here.](/doc/designWaterwheel.md)
+
+- I also created a little prototype for attachment with nails. I learned from that, that it will not work. Why I tried it like that and more about it can be found [here.](HowToConnectTheWaterWheelToTheMotor.md)
 
 **Week10:**
+- In our project group we had the problem that when we worked on the project in an open-area a lot of people that were interested in the project came along and asked about it, which resulted in us talking more than working. On one day in this week, where this was especially bad we could unfortunately not book a cockpit, since all were already booked. To resolve this I communicated it with my team and started booking cockpits a day earlier to make sure that there are still bookable cockpits or rooms left. Using cockpits reduced the disturbance immensely and improved the teams efficiency. ([proof](/doc/disturbance.md))
 
-**Week11:**
+**Week11:** 
+- From week11 on I took the duck with me home everyday and brought her back every prj session, since the duck did not fit into Alice's bag anymore and she is coming to school by bike. 
+  I think this somehow proofs my punctuality and organisation, since now the whole project group depends on me being punctual or else they will not be able to work, since they do not have the duck. In fact I was half an hour early every day, because of my anxiety of being to late, but this is hard to prove. I also attended every PRJ meeting, OSCO lecture and INES lecture in the semester. I am going to prove this with a cute picture of the duck on my passenger seat. View it by clicking [here](/doc/passengerSeatDuck.md). 
+  I did also ask Alice for feedback about my punctuality and she said: "Louis was always punctual"
 
 **prjWeek3/week12:**
 - We had a meeting with Mr. Eric Peters to seek information about how we should connect the distance sensor to cables.
@@ -219,6 +234,10 @@ To apply future oriented organisation during our project we held daily stand-up 
 
 
 **prjWeek4/Week13:** 
+- Me and my project group went to Mr. Eric Peters to get a pen-lite battery pack. From this I learned about the usual pen-lite battery distributions in one pack. ([proof](/doc/penlite.md)). 
+
+- I asked IDE students for advice on how to attach the distance sensor to the duck ([proof](/doc/IDEStudentsHelp.md)).
+
 - I informed myself about real time reacting code reading this article: https://www.futurelearn.com/info/courses/embedded-systems/0/steps/64783
   and this one:
   https://www.geeksforgeeks.org/embedded-real-time-system/
@@ -226,12 +245,30 @@ To apply future oriented organisation during our project we held daily stand-up 
 - Additionally I researched more into the vTaskDelay() function reading this article:
   https://www.freertos.org/Documentation/02-Kernel/04-API-references/02-Task-control/01-vTaskDelay
 
+- To gain more information and tips about de-soldering pins from a component, Ben and me went to Mr. Peters to get an expertise. You can see how that went and what I have learned from that in week13 LO1.
+
 - To better understand the voltage divider I watched this youtube video and used the formula for our case: https://www.youtube.com/watch?v=i7p95tJOzTg
 
-**prjWeek5/Week14:** 
-- To find out what to do with a cable that broke from the battery me and my team went to Mr. Eric Peters to find a solution for that issue. Mr. Peters told us that it is still possible to solder the cables back on. We should just tin the cable ends before and go down in temperature to not damage the batteries.
+- I informed myself about which saws are for metal asking an Industrial Design Student from the workshop. [design](/doc/designWaterwheel.md)
 
-- After Mr. Eric Peters told us about fuses I did research about fuses so we could build them in 
+- We had the problem that the 3D-printer did not print the teeth of the connector to our motor as precisely as needed. To solve this problem we asked a teacher from the workshop for ideas to solve this problem, which is how I learned to use the press machine in the workshop. ([proof](pressMachineTraining.md))
+
+- We had a session with Mr. van Gennip where he explained the voltage divider further to us, which at first was not so easy for us to understand for our specific use case of having 2 batteries. ([proof](/doc/voltageDividerGennip.md))
+
+- I created a small step down converter prototype build and measured with the multi-meter if it works, before building it into the final system. This made me more confident using it without damaging something.
+
+- We gained additional knowledge about step-down converters from Mr. Eric Peters. Now I know that step down converters can be digital and analogue and that the analogue ones need a minimum input voltage depending on the output voltage.
+
+- Since we originally thought about using Styrofoam to additionally secure our components from water we asked an IDE student to show us how to work with it and he did. ([proof and what I learned](/doc/IDEStudentHelpingUsStyro.md))
+
+
+**prjWeek5/Week14:** 
+- To find out what to do with a cable that broke from the battery me and my team went to Mr. Eric Peters to find a solution for that issue. Mr. Peters told us that it is still possible to solder the cables back on. We should just tin the cable ends before and go down in temperature to not damage the batteries. This did indeed work and we double checked if the batteries still work with a multi-meter. 
+
+- We had another session with Mr. Tange, where he explained the voltage divider again to us, since we still had questions about the resistors used here. ([proof](/doc/voltageDividerTange.md))
+
+- Mr. Eric Peters also educated us about different fuses and explained how to measure what fuse we need. To see what I have learned from Mr. Peters click [here.](fuses.md)
+  I also did some additional research about fuses reading this article:
   https://www.britannica.com/technology/fuse-electronic-device
 
 - Here I learned where the fuse should be located:
