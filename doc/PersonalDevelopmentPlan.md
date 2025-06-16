@@ -284,7 +284,7 @@ _Unfortunately since a lot of components were missing in the second project week
 - Here I learned where the fuse should be located:
   https://www.reddit.com/r/AskElectronics/comments/yqleyt/does_physical_location_of_the_fuse_matters/
 
-- We held a second retrospectiveMeeting. ([results](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/dev/documentation/retrospective-results.md))
+- We held a second retrospective meeting. ([results](https://github.com/FontysVenlo/prj4e-repository-group_e02/blob/dev/documentation/retrospective-results.md))
 ## **Reflection:** 
 
 In retrospective I do believe that after doing the project and taking the Embedded Systems direction as a whole, I am now able to build a basic robot and have learned quite a bit about low level programming and electricity. I am proud of the final outcome of our project and believe that I did a good job and that doing this project was beneficial for me skill wise.
