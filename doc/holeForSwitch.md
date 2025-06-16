@@ -1,4 +1,4 @@
-Dilling:
+Drilling:
 ![holeForSwitch](images/holeForSwitch.jpg)
 
 Filing:
